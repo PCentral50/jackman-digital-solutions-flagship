@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 720" width="1100" height="720" role="img" aria-labelledby="roadmap-title roadmap-desc">
+<title id="roadmap-title">A safe path from a static concept to verified online payments</title>
+<desc id="roadmap-desc">Four stages: design a preview, connect a test gateway, verify server-side payments and orders, and receive approval before accepting real payments.</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f8f0"/><stop offset="1" stop-color="#e1eadd"/></linearGradient></defs>
+<rect width="1100" height="720" fill="url(#paper)"/>
+<path d="M 0 630 C 220 560 395 745 650 650 S 1000 578 1100 620 L 1100 720 L 0 720 Z" fill="#d4e2d2" opacity=".55"/>
+<text x="66" y="70" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="5" fill="#496f56">J. / COMMERCE ENGINEERING</text>
+<text x="66" y="133" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#16392a">From concept to trusted checkout.</text>
+<text x="66" y="173" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#53695b">A staged rollout designed to protect your customers and your business.</text>
+<path d="M 154 302 H 951" stroke="#9eb6a4" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 12"/>
+
+<rect x="60" y="220" width="231" height="350" rx="17" fill="#fcfdf9" stroke="#bdceb9" stroke-width="2"/>
+ <circle cx="114" cy="270" r="28" fill="#1e4530"/>
+ <text x="114" y="280" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle">01</text>
+ <text x="84" y="348" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.2" fill="#628469">DESIGN</text>
+ <text x="84" y="399" font-family="Georgia, 'Times New Roman', serif" font-size="37" fill="#213f2d">Preview</text>
+ <text x="84" y="452" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526758">Build and review</text>
+ <text x="84" y="476" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526758">the interface.</text>
+ <path d="M 84 508 H 267" stroke="#d9e4d6" stroke-width="1.6"/>
+ <text x="84" y="537" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52725a">Concept only</text>
+<rect x="311" y="220" width="231" height="350" rx="17" fill="#fcfdf9" stroke="#bdceb9" stroke-width="2"/>
+ <circle cx="365" cy="270" r="28" fill="#1e4530"/>
+ <text x="365" y="280" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle">02</text>
+ <text x="335" y="348" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.2" fill="#628469">SANDBOX</text>
+ <text x="335" y="399" font-family="Georgia, 'Times New Roman', serif" font-size="37" fill="#213f2d">Test</text>
+ <text x="335" y="452" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526758">Run payment tests</text>
+ <text x="335" y="476" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526758">without live money.</text>
+ <path d="M 335 508 H 518" stroke="#d9e4d6" stroke-width="1.6"/>
+ <text x="335" y="537" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52725a">No real charges</text>
+<rect x="562" y="220" width="231" height="350" rx="17" fill="#fcfdf9" stroke="#bdceb9" stroke-width="2"/>
+ <circle cx="616" cy="270" r="28" fill="#1e4530"/>
+ <text x="616" y="280" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle">03</text>
+ <text x="586" y="348" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.2" fill="#628469">VERIFY</text>
+ <text x="586" y="399" font-family="Georgia, 'Times New Roman', serif" font-size="37" fill="#213f2d">Secure</text>
+ <text x="586" y="452" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526758">Validate notifications</text>
+ <text x="586" y="476" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526758">and record orders.</text>
+ <path d="M 586 508 H 769" stroke="#d9e4d6" stroke-width="1.6"/>
+ <text x="586" y="537" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52725a">Server-side checks</text>
+<rect x="813" y="220" width="231" height="350" rx="17" fill="#193d2b" stroke="#bdceb9" stroke-width="2"/>
+ <circle cx="867" cy="270" r="28" fill="#b1cbb0"/>
+ <text x="867" y="280" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1c3828" text-anchor="middle">04</text>
+ <text x="837" y="348" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.2" fill="#aacbab">APPROVE</text>
+ <text x="837" y="399" font-family="Georgia, 'Times New Roman', serif" font-size="37" fill="#ffffff">Launch</text>
+ <text x="837" y="452" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#e5f0e3">Go live only after</text>
+ <text x="837" y="476" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#e5f0e3">written approval.</text>
+ <path d="M 837 508 H 1020" stroke="#628069" stroke-width="1.6"/>
+ <text x="837" y="537" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#c9e1c9">Real money starts here</text>
+<text x="66" y="649" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1d402b">PAYMENT GATEWAYS ARE NOT ACTIVE ON THIS PREVIEW SITE</text>
+<text x="66" y="676" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#58735f">Illustrative process · Provider onboarding, fees, compliance and approval required.</text>
+</svg>
